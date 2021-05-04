@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/364381948.svg)](https://zenodo.org/badge/latestdoi/364381948)
+
 # 15-puzzle
 
 The 15 puzzle (also called Game of Fifteen or Mystic Square) is a game where 15
